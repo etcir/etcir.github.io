@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-We invite researchers in machine learning and statistics to submit their latest work to the UM-CIR 2024 workshop on user modelling aspects in conversational information retrieval.
+We invite researchers to submit their latest work to the ET-CIR 2024 workshop on Emerging Trends in Conversational Information Retrieval.
 
 
 ## Key dates
