@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-We invite researchers to submit their latest work to the ET-CIR 2024 workshop on Emerging Trends in Conversational Information Retrieval.
+We invite researchers to submit their latest work to the ET-CIR 2024 workshop on Emerging Trends in Conversational Information Retrieval. Submissions focusing on new directions and emerging work in Conversational Information Retrieval which create discussion are strongly encouraged.
 
 
 ## Key dates
@@ -15,13 +15,13 @@ We invite researchers to submit their latest work to the ET-CIR 2024 workshop on
 * Submission deadline: **October 3, 2024**
 * Acceptance notification: **October 18, 2024**
 * Workshop Date: **December 13, 2024**
+  
 Note: All submission deadlines are 11:59 PM AoE Time Zone (Anywhere on Earth).
 
 ## Themes and Topics
 
 We encourage submissions that relate (but not limited) to the following themes and topics with a focus on the emerging tensds in conversational information retrieval:
 
-* **Personalization**
   * New methods for modelling users in CIR (personalization)
   * Modelling user emotion
   * Mining and modelling users
@@ -29,20 +29,13 @@ We encourage submissions that relate (but not limited) to the following themes a
   * Datasets: new source, new way to collect
   * Introducing personalization
   * Focusing on specialized user groups and personality, for example psychologically affected users
-
-* **Modelling Conversation**
   * Alignment between current user modelling and the real user in CIR
   * Modelling user and user’s behaviour
   * Conversational Knowledge extraction and representation
   * Other theoretical models and foundations of user-centric modelling of CIR.
-
-* **User Simulation**
   * User simulation of CIR
   * Dataset for user simulation of CIR
   * Other theoretical models and foundations of user simulation of CIR.
-
-
-* **Evaluation**
   * User-centered evaluation of CIR
   * User studies, user engagement
   * System-oriented evaluation of CIR
