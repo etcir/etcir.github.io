@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-25 16:59:00-0400
+date: 2024-08-15 16:59:00-0400
 inline: true
 related_posts: false
 ---
 
-:mega: **Call for papers officially opened!** Please see details [here](https://um-cir.github.io/callForPapers/)!
+:mega: **Call for papers officially opened!** Please see details [here](https://etcir.github.io/callForPapers/)!
