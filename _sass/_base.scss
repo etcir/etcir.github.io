@@ -541,6 +541,17 @@ footer.sticky-bottom {
 
 .post-header {
   text-align: center;
+  background-image: url('../assets/img/bg_nii.png');
+  background-size: cover; /* Cover the entire div */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent repeating the image */
+  height: 300px; /* Set a height for the header */
+  // color: white; /* Text color */
+  display: flex; /* Flexbox for centering text */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  text-align: center;
+  opacity: 0.5;
 }
 
 .post-list {
