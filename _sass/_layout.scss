@@ -38,6 +38,24 @@ body.sticky-bottom-footer {
   }
 }
 
+.header-background {
+  background-image: url('../assets/img/bg_nii.png');
+}
+
+
+.sponsor-container {
+  margin-top: auto;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  background-color: #f1f1f1;
+}
+
+.sponsor-container img {
+  max-width: 100%;
+  height: auto;
+}
 // TODO: redefine content layout.
 
 /******************************************************************************
