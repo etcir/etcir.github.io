@@ -20,7 +20,9 @@
     <!-- Header -->
     {% include header.liquid %}
 
-    <div class="header-background"></div> 
+    <div class="header-background">
+      <img src="../assets/img/bg_nii.png" alt="NII Background">
+    </div> 
 
     <!-- Content -->
     <div class="container mt-5" role="main">
@@ -47,12 +49,13 @@
       {% else %}
         {{ content }}
       {% endif %}
+        <div class="sponser-container">
+          <img src="../assets/img/NII_Logo.png" alt="NII Logo">
+          <img src="../assets/img/ntcir.png" alt="NTCIR Logo">
+        </div>
     </div>
 
-    <div class="sponser-container">
-      <img src="../assets/img/NII_Logo.png" alt="NII Logo">
-      <img src="../assets/img/ntcir_Logo.png" alt="NTCIR Logo">
-    </div>
+
 
     <!-- Footer -->
     {% include footer.liquid %}

@@ -38,8 +38,9 @@ body.sticky-bottom-footer {
   }
 }
 
-.header-background {
-  background-image: url('../assets/img/bg_nii.png');
+.header-background img{
+  max-width: 100%;
+  height: auto;
 }
 
 
