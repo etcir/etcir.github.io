@@ -546,7 +546,7 @@ footer.sticky-bottom {
   color: white;
 }
 
-.post-header::before {
+.header::after {
   content: "";
   position: absolute;
   top: 0;
@@ -555,7 +555,6 @@ footer.sticky-bottom {
   height: 100%;
   background-image: url('/assets/img/bg_nii.jpeg'); /* Replace with your image URL */
   background-size: cover;
-  background-position: center;
   background-repeat: no-repeat;
   opacity: 0.5; /* Adjust the opacity as needed */
   z-index: -1; /* Places the image behind the text */
