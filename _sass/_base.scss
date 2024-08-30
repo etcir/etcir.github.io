@@ -566,6 +566,16 @@ footer.sticky-bottom {
   z-index: -1; /* Place the background image behind the content */
 }
 
+.sponsor-container {
+  margin-top: 3rem !important;
+}
+
+.sponsor-container img {
+  max-width: 100%;
+  height: auto;
+  margin-right: 3rem
+}
+
 
 .post-list {
   margin: 0;
