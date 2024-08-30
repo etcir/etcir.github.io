@@ -560,6 +560,10 @@ footer.sticky-bottom {
   z-index: -1; /* Places the image behind the text */
 }
 
+article {
+padding-top: 20px;
+}
+
 
 .sponsor-container {
   margin-top: 3rem;
@@ -567,8 +571,7 @@ footer.sticky-bottom {
 
 iframe {
   border: 0;
-  margin-top: 20px;
-  margin-left: 60px;
+  margin: 0 43px;
 }
 
 .sponsor-container img {
