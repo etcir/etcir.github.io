@@ -10,6 +10,8 @@ nav_order: 2
 We invite researchers to submit their latest work to the ET-CIR 2024 workshop on Emerging Trends in Conversational Information Retrieval. Submissions focusing on new directions and emerging work in Conversational Information Retrieval which create discussion are strongly encouraged.
 
 
+Submission Website : https://easychair.org/conferences/?conf=umcir2024
+
 ## Key dates
 
 * Submission deadline: **October 3, 2024**
@@ -47,7 +49,7 @@ We encourage submissions that relate (but not limited) to the following themes a
 
 ## Submission Details
 
-Authors are invited to submit original, unpublished research papers that are not being considered for publication in any other forum. Manuscripts should be submitted electronically in PDF format following the workshop instructions (TBA). 
+Authors are invited to submit original, unpublished research papers that are not being considered for publication in any other forum. Manuscripts should be submitted electronically in PDF format following the workshop instructions [Submission Website](https://easychair.org/conferences/?conf=umcir2024). 
 
 Submissions of papers must be at least 2 pages and at most 9 pages in length, with unlimited pages for references. We welcome extended abstract, opinion piece, perspective papers and provocation paper. Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official) templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the "sigconf" proceedings template for LaTeX and the Interim Template for Word).
 
