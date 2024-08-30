@@ -546,7 +546,7 @@ footer.sticky-bottom {
   color: white;
 }
 
-.header::after {
+.post-header::before {
   content: "";
   position: absolute;
   top: 0;
