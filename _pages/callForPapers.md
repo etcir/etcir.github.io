@@ -14,8 +14,8 @@ Submission Website : https://easychair.org/conferences/?conf=umcir2024
 
 ## Key dates
 
-* Submission deadline: **October 3, 2024**
-* Acceptance notification: **October 18, 2024**
+* Submission deadline: ~~**October 3, 2024**~~ **October 10, 2024**
+* Acceptance notification: ~~**October 18, 2024**~~ **October 28, 2024**
 * Workshop Date: **December 13, 2024**
   
 Note: All submission deadlines are 11:59 PM AoE Time Zone (Anywhere on Earth).
