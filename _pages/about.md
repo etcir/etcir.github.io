@@ -19,20 +19,18 @@ Conversational Information Retrieval (CIR) has attracted growing research intere
 The workshop will be a follow on from the [UM-CIR](https://um-cir.github.io/) workshop at the SIGIR-AP 2024 Conference and the venue for which would be the National Institute of Informatics, Tokyo, Japan.
 
 
-## Key dates
+<!-- ## Key dates
 
 <!-- * Submission website open: **September 01, 2024** -->
-* Submission deadline: **October 3, 2024**
-* Acceptance notification: **October 18, 2024**
+* Submission deadline: ~~**October 3, 2024**~~ **October 10, 2024**
+* Acceptance notification: ~~**October 18, 2024**~~ **October 28, 2024**
 * Workshop Date: **December 13, 2024**
   
 Note: All submission deadlines are 11:59 PM AoE Time Zone (Anywhere on Earth).
 
 ### Submission Link
 
-https://easychair.org/conferences/?conf=umcir2024
-
-
+https://easychair.org/conferences/?conf=umcir2024 -->
 
 
 <!-- The goal of this workshop is to provide a forum for the exploration of user modelling and its evaluation within CIR -->
