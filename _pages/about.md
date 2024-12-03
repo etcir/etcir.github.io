@@ -33,4 +33,4 @@ The workshop will be a follow on from the [UM-CIR](https://um-cir.github.io/) wo
 https://easychair.org/conferences/?conf=umcir2024
 
 
-The goal of this workshop is to provide a forum for the exploration of user modelling and its evaluation within CIR --> -->
+The goal of this workshop is to provide a forum for the exploration of user modelling and its evaluation within CIR -->

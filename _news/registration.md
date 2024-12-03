@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:mega: **Registration Open** The registration for the ET-CIR workshop is open now. Register[here](https://forms.office.com/r/5ZKEbKyUbG)!
+:mega: **Registration Open** The registration for the ET-CIR workshop is open now. Register [here](https://forms.office.com/r/5ZKEbKyUbG)!
