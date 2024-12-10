@@ -10,16 +10,15 @@ nav_order: 2
 
 | **Time (JST)**{: .h5}   | **Event**{: .h5}                                                   |
 | :-----------------------: | :-----------------------------------------------------------------: |
-| 9:00-9:30            | **Welcome and Introduction**                                           |
-|                           | Fabio Crestiani, USI, Switzerland |
-| 9:30-12:00            | **Invited talks on Emerging Trends to invoke the discussion**|
+| 10:00-10:15            | **Welcome and Introduction**                                           |
+| 10:15-12:15          | **Invited talks on Emerging Trends to invoke the discussion**|
 |                           |     Qingyao Ai, Tsinghua University, China|
 |                           |     Mohammad Aliannejadi, University of Amsterdam, The Netherlands|
 |                           |     Fabio Crestiani, USI, Switzerland|
 |                           |     Gareth Jones, Dublin City University, Ireland|
 |                           |     Johanne Trippas, RMIT University, Australia|
 |                           | **Break-Out group forming** |
-| 12:00-13:30            | **Lunch Break** |
+| 12:15-13:30            | **Lunch Break** |
 | 13:30 - 15:00            | **Break-out Discussion** |
 | 15:00-15:30           | **Coffee break** |
 | 15:30-16:00           | **Report From the Discussion Groups and Discussion** |
