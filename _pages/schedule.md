@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: Tentative (TBC)
+description: Venue:Room 1902-1903, 19th floor, NII, Tokyo, Japan
 nav: True
 nav_order: 3
 ---

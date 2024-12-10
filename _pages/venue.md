@@ -2,7 +2,7 @@
 layout: page
 permalink: /venue/
 title: Venue
-description:
+description: Room 1902-1903, 19th floor, NII, Tokyo, Japan
 nav: true
 nav_order: 5
 ---
