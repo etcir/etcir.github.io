@@ -4,7 +4,7 @@ permalink: /schedule/
 title: Schedule
 description: Venue:Room 1902-1903, 19th floor, NII, Tokyo, Japan
 nav: True
-nav_order: 3
+nav_order: 2
 ---
 
 
