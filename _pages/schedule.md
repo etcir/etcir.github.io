@@ -11,12 +11,17 @@ nav_order: 2
 | **Time (JST)**{: .h5}   | **Event**{: .h5}                                                   |
 | :-----------------------: | :-----------------------------------------------------------------: |
 | 10:00-10:15            | **Welcome and Introduction**                                           |
-| 10:15-12:15          | **Invited talks on Emerging Trends to invoke the discussion**|
+| 10:15-12:15          | **Invited talks on Emerging Trends to Invoke Discussion**|
+|                           | An In-depth Investigation of User Response Simulation for Conversational Search |
 |                           |     Qingyao Ai, Tsinghua University, China|
+|                           | Use of LLMs for Evaluation and Nugget-Based Evaluation |
 |                           |     Mohammad Aliannejadi, University of Amsterdam, The Netherlands|
-|                           |     Fabio Crestiani, USI, Switzerland|
-|                           |     Gareth Jones, Dublin City University, Ireland|
+|                           | Re-evaluating the Command-and-Control Paradigm in Conversational Search Interactions |
 |                           |     Johanne Trippas, RMIT University, Australia|
+|                           | Personalisation in Conversational Information Retrieval |
+|                           |     Fabio Crestani, USI, Switzerland|
+|                           | Conversational Search Futures: Proactivity, Personality, and Presentation|
+|                           |     Gareth Jones, Dublin City University, Ireland|
 |                           | **Break-Out group forming** |
 | 12:15-13:30            | **Lunch Break** |
 | 13:30 - 15:00            | **Break-out Discussion** |
