@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /callForPapers/
+# permalink: /callForPapers/
 title: Call For Papers
 description:
 nav: true

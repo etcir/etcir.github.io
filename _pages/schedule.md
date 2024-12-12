@@ -12,15 +12,15 @@ nav_order: 2
 | :-----------------------: | :-----------------------------------------------------------------: |
 | 10:00-10:15            | **Welcome and Introduction**                                           |
 | 10:15-12:15          | **Invited talks on Emerging Trends to Invoke Discussion**|
-|                           | An In-depth Investigation of User Response Simulation for Conversational Search |
+|                           | **An In-depth Investigation of User Response Simulation for Conversational Search** |
 |                           |     Qingyao Ai, Tsinghua University, China|
-|                           | Use of LLMs for Evaluation and Nugget-Based Evaluation |
+|                           | **Use of LLMs for Evaluation and Nugget-Based Evaluation** |
 |                           |     Mohammad Aliannejadi, University of Amsterdam, The Netherlands|
-|                           | Re-evaluating the Command-and-Control Paradigm in Conversational Search Interactions |
+|                           | **Re-evaluating the Command-and-Control Paradigm in Conversational Search Interactions** |
 |                           |     Johanne Trippas, RMIT University, Australia|
-|                           | Personalisation in Conversational Information Retrieval |
+|                           | **Personalisation in Conversational Information Retrieval** |
 |                           |     Fabio Crestani, USI, Switzerland|
-|                           | Conversational Search Futures: Proactivity, Personality, and Presentation|
+|                           | **Conversational Search Futures: Proactivity, Personality, and Presentation**|
 |                           |     Gareth Jones, Dublin City University, Ireland|
 |                           | **Break-Out group forming** |
 | 12:15-13:30            | **Lunch Break** |
