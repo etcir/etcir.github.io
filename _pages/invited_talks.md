@@ -42,7 +42,7 @@ Mohammad is an Assistant Professor at IRLab, University of Amsterdam. His resear
 
 
 
-### Invited Speaker: Johanne Trippas, RMIT University, Australia
+### Speaker: Johanne Trippas, RMIT University, Australia
 
 **Title: Re-evaluating the Command-and-Control Paradigm in Conversational Search Interactions**
 
