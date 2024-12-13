@@ -7,11 +7,9 @@ nav_order: 3
 ---
 
 
-**Invited Speaker: Qingyao Ai, Tsinghua University, China**
+### Speaker: Qingyao Ai, Tsinghua University, China
 
 **Title: Asking Clarifying Questions with Large Language Models**
-
-
 
 **Abstract**
 Traditional search engines often struggle with query ambiguity due to underspecified or faceted queries. By leveraging LLMs, conversational search can dynamically generate and refine questions that address user intent more effectively. In this talk, we discuss the challenges and advancements in the generation of clarifying questions using large language models (LLMs) to improve conversational search systems. Key areas of focus include overcoming cold-start problems, mitigating data biases, and optimizing the utility of generated questions. Specifically, we introduce our recent work on constrained generation, knowledge
@@ -25,7 +23,7 @@ SIGIR-AP’23 Best Paper Honorable Mention, etc.
 
 
 
-**Invited Speaker: Mohammad Aliannejadi, University of Amsterdam, The Netherlands**
+### Speaker: Mohammad Aliannejadi, University of Amsterdam, The Netherlands
 
 **Title: LLMs and IR Evaluation: Towards Building Reusable Conversational Test Collectionss**
 
@@ -44,7 +42,7 @@ Mohammad is an Assistant Professor at IRLab, University of Amsterdam. His resear
 
 
 
-**Invited Speaker: Johanne Trippas, RMIT University, Australia**
+### Invited Speaker: Johanne Trippas, RMIT University, Australia
 
 **Title: Re-evaluating the Command-and-Control Paradigm in Conversational Search Interactions**
 
